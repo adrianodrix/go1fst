@@ -122,8 +122,9 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-**Seu Nome**
+**Adriano Santos**
 - GitHub: [@adrianodrix](https://github.com/adrianodrix)
+- Email: [hello@adrianodrix.me](mailto:hello@adrianodrix.me)
 
 ## 🙏 Agradecimentos
 
